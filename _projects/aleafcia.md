@@ -1,80 +1,36 @@
 ---
 layout: page
 title: aleafcia
-description: another without an image
-img: assets/img/12.jpg
+description: health-minded recipe crafting & influencing
+img: assets/img/aleafcia/aleafcia-feed.png
 importance: 3
-category: misc
+category: 🌱
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+In 2020, I launched [@aleafcia](https://www.instagram.com/aleafcia/?hl=en). It was during the height of the COVID-19 pandemic, and I was looking for a new hobby that would also align with my passion to live a healthy life. I was inspired by my dad, who baked homemade bread and pizza for me when I was growing up, to pursue plant-based baking and cooking.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+On [@aleafcia](https://www.instagram.com/aleafcia/?hl=en), I documented my baking journey with my followers, who had grown to over 2500 in two years. I also collaborated with amazing food brands that share my vision of healthy and delicious homemade eats. My hand-crafted recipes are all free of refined sugar, bleached or all-purpose flour, and use few dairy products. I've enjoyed experimenting with a variety of alternative flours, such as tigernut, chickpea, and teff, to create different textures and flavors. I've also enjoyed taking beautiful photos of my creations and improving my food photography skills.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+For now, I've hit pause on content creation, but continue to enjoy baking and cooking in my spare time.
+
+<div class="row social">
+<div class="col-sm mt-3 mt-md-0">
+    <a href="https://www.pinterest.com/aleafcia" title="Pinterest"><i class="fab fa-pinterest"></i></a>
+    <a href="https://instagram.com/aleafcia" title="Instagram"><i class="fab fa-instagram"></i></a>
+</div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aleafcia/babka.jpg" title="cacao babka" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aleafcia/matcha_cake.jpg" title="matcha & black sesame cake" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/aleafcia/galettes.jpg" title="nectarine & fig galettes" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    (left) cacao babka, (middle) matcha & black sesame cake, (right) nectarine & fig galettes
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
