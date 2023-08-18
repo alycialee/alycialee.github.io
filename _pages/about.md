@@ -17,13 +17,13 @@ social: true  # includes social icons at the bottom of the page
 
 [This website is under construction]
 
-Hi, I'm Alycia 👋 I'm a software engineer at Microsoft, where I work on client-side deep learning for content understanding in Edge. I'm also a Master's student in Computer Science, specializing in Artificial Intelligence, at Stanford University.
+Hi, I'm Alycia 👋 I'm a software engineer at Microsoft, where I work on client-side deep learning for content understanding in Edge. I'm also a Master's student in Computer Science, specializing in Artificial Intelligence, at Stanford University in the Honors Cooperative Program (HCP).
 
-Previously, I received my BSc in Computer Science and Business, Economics, and Management (BEM) from the California Institute of Technology in 2021. As an undergrad, I had the opportunity to work under the guidance of Professors [Frances Arnold](http://fhalab.caltech.edu/) and [Yisong Yue](http://www.yisongyue.com/) on applying Machine Learning (ML) to protein engineering and explore distributionally robust learning. I was fortunate to have had incredible mentors at Caltech, namely [Kevin Yang](https://yangkky.github.io/), [Zachary Wu](https://twitter.com/ZvxyWu), and [Anqi Liu](https://anqiliu-ai.github.io/). I was also an intern at [Nand Capital](https://www.nandcapital.com/), [Flagship Pioneering](https://www.flagshippioneering.com/), and [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e00&ocid=ORSEARCH_Bing). 
+Previously, I received my BSc in Computer Science and Business, Economics, and Management (BEM) from the California Institute of Technology in 2021. As an undergrad, I had the opportunity to work under the guidance of Professors [Frances Arnold](http://fhalab.caltech.edu/) and [Yisong Yue](http://www.yisongyue.com/) on applying Machine Learning (ML) to protein engineering and exploring distributionally robust learning. I was fortunate to have had incredible mentors at Caltech, namely [Kevin Yang](https://yangkky.github.io/), [Zachary Wu](https://twitter.com/ZvxyWu), and [Anqi Liu](https://anqiliu-ai.github.io/). I was also a quant research intern at [Nand Capital](https://www.nandcapital.com/), ML consultant at [Flagship Pioneering](https://www.flagshippioneering.com/), and a software engineer intern at [Microsoft Edge](https://www.microsoft.com/en-us/edge?form=MA13FJ&exp=e00&ocid=ORSEARCH_Bing). 
 
 My current research interests lie in data-centric AI and ML systems. At Stanford, I recently worked with [Brando Miranda](https://brando90.github.io/brandomiranda/home.html) and Professor [Sanmi Koyejo](https://cs.stanford.edu/people/sanmi/) on evaluating Large Language Model (LLM) pretraining data diversity.
 
-When I'm not at work or studying, you can find me cooking and baking health-minded food, enjoying a stroll through a garden or farmer's market while listening to a podcast on health optimization and longevity. Or working on this website!
+When I'm not at work or studying, you can find me cooking and baking health-minded food, enjoying a stroll through a garden or farmer's market, and/or listening to a podcast on health optimization and longevity.
 
 For research inquiries, please send mail to alylee15 + at + stanford + dot + edu. 
 For all other inquiries, please send to alycialee15 + at + protonmail + dot + com.

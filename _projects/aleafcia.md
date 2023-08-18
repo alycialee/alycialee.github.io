@@ -7,9 +7,9 @@ importance: 3
 category: 🌱
 ---
 
-In 2020, I launched [@aleafcia](https://www.instagram.com/aleafcia/?hl=en). It was during the height of the COVID-19 pandemic, and I was looking for a new hobby that would also align with my passion to live a healthy life. I was inspired by my dad, who baked homemade bread and pizza for me when I was growing up, to pursue plant-based baking and cooking.
+In 2020, I launched [@aleafcia](https://www.instagram.com/aleafcia/?hl=en). It was during the height of the COVID-19 pandemic, and I was looking for a new hobby that would also align with my passion to live a healthy life. I was inspired by my dad, a health-conscious chef who baked homemade bread in my childhood, to try my hand at plant-based baking and cooking.
 
-On [@aleafcia](https://www.instagram.com/aleafcia/?hl=en), I documented my baking journey with my followers, who had grown to over 2500 in two years. I also collaborated with amazing food brands that share my vision of healthy and delicious homemade eats. My hand-crafted recipes are all free of refined sugar, bleached or all-purpose flour, and use few dairy products. I've enjoyed experimenting with a variety of alternative flours, such as tigernut, chickpea, and teff, to create different textures and flavors. I've also enjoyed taking beautiful photos of my creations and improving my food photography skills.
+On [@aleafcia](https://www.instagram.com/aleafcia/?hl=en), I documented my baking journey and shared my hand-crafted recipes with my followers, who had grown to over 2500 in two years. I also collaborated with amazing food brands that had the same vision of promoting healthy and delicious homemade eats. My recipes are all free of refined sugar, bleached or all-purpose flour, and use few dairy products. I've enjoyed experimenting with a variety of alternative flours, such as tigernut, chickpea, and teff, to create different textures and flavors. I've also enjoyed taking beautiful photos of my creations and improving my food photography skills.
 
 For now, I've hit pause on content creation, but continue to enjoy baking and cooking in my spare time.
 
